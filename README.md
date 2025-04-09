@@ -4,9 +4,9 @@ A beautiful and responsive **real-time clock** created using **HTML**, **CSS**, 
 
 ## 📸 Preview
 
-![Clock Preview](image/clock.png) 
+![Clock Preview](images/Preview.png) 
 ## 🔧 Technologies Used
 
 - **HTML5** – Markup for structure
 - **CSS3** – Styling and layout
-- **JavaScript (Vanilla)** – For live clock functionality
+- **JavaScript** – For live clock functionality
